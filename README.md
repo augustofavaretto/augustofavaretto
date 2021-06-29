@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Augusto.
 - 👀 I’m interested in deepen skills in programming languages.
 - 🌱 I’m currently learning  Phyton , HTML5,  CSS3, JavaScript e C++.
-- 💞️ I’m looking to collaborate in web development 
+- 💞️ I’m looking to collaborate in web development.
 - 📫 Get in touch on GitHub
 
 <!---
