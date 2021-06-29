@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Augusto .
-- 👀 I’m interested in  aprofundar conhecimentos nas linguagens de programação.
+- 👋 Hi, I’m Augusto.
+- 👀 I’m interested in deepen skills in programming languages.
 - 🌱 I’m currently learning  Phyton , HTML5,  CSS3, JavaScript e C++.
-- 💞️ I’m looking to collaborate  em desenvolvimento web. 
-- 📫 Para me encontrar, envie um mensagem via GitHub.
+- 💞️ I’m looking to collaborate in web development 
+- 📫 Get in touch on GitHub
 
 <!---
 augustofavaretto/augustofavaretto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
